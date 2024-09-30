@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_block_inner_blocks",
+  "info": {
+    "displayName": "innerBlock"
+  },
+  "options": {},
+  "attributes": {
+    "h1": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
